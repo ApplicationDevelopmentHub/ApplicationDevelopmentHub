@@ -1,2 +1,5 @@
 # Virtual Reality, Computer Graphics, & Computer Vision
-![vr1.jpg](https://github.com/ApplicationDevelopmentHub/ApplicationDevelopmentHub/blob/main/vr1.JPG?raw=true)
+<div align="center">
+    <img src="https://github.com/ApplicationDevelopmentHub/ApplicationDevelopmentHub/blob/main/vr1.JPG?raw=true" alt="Centered Image" width="400">
+</div>
+
