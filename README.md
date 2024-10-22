@@ -4,3 +4,10 @@
     <img src="https://github.com/ApplicationDevelopmentHub/ApplicationDevelopmentHub/blob/main/vr1.JPG?raw=true" alt="Centered Image" width="400">
 </div>
 
++ Algorithms
++ System Design
++ Image Processing
++ Global Illumination
++ Graphics Rendering
++ Mesh Generation
++ Deep Learning for Computer Vision
