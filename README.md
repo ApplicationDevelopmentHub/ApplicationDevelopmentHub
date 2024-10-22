@@ -1,2 +1,2 @@
 
-![Alt text]([vr1.jpg](https://github.com/ApplicationDevelopmentHub/ApplicationDevelopmentHub/blob/main/vr1.JPG?raw=true))
+![vr1.jpg](https://github.com/ApplicationDevelopmentHub/ApplicationDevelopmentHub/blob/main/vr1.JPG?raw=true)
